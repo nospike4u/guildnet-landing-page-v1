@@ -1,0 +1,11 @@
+{
+  "name": "guildnet-landing-page-client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i ./public/landing.css -o ./public/tailwind.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0"
+  }
+}
