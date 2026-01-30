@@ -1,1 +1,1 @@
-# guildnet-landig-page
+# guildnet-landing-page
